@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.div_product_card {
+  margin: 5px 20px;
+  display: flex;
+  flex-direction: column;
+}
